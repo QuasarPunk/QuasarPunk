@@ -133,11 +133,10 @@ Enseñanza de diseño tridimensional y fabricación digital mediante modelado 3D
 QuasarPunk también es una forma de comunicar el proceso: tecnología, educación y comunicación audiovisual forman parte de la misma identidad.
 
 <div align="center">
-  <a href="mailto:mauroemanuelcarrasco98@gmail.com"><img src="assets/icons/email.svg" width="26" height="26" alt="Email"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/QuasarPunk"><img src="assets/icons/github.svg" width="26" height="26" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mauro-carrasco-27192440b"><img src="assets/icons/linkedin.svg" width="26" height="26" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://youtube.com/@alirafiq98"><img src="assets/icons/youtube.svg" width="26" height="26" alt="YouTube"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/alirafiq98/"><img src="assets/icons/instagram.svg" width="26" height="26" alt="Instagram"></a>
+    <a href="mailto:mauroemanuelcarrasco98@gmail.com"><img src="assets/icons/email.svg" width="52" height="52" alt="Email"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/mauro-carrasco-27192440b"><img src="assets/icons/linkedin.svg" width="52" height="52" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://youtube.com/@alirafiq98"><img src="assets/icons/youtube.svg" width="52" height="52" alt="YouTube"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/alirafiq98/"><img src="assets/icons/instagram.svg" width="52" height="52" alt="Instagram"></a>
 </div>
 
 ## Actividad en GitHub
