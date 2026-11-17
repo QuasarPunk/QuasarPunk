@@ -2,6 +2,10 @@
   <img src="assets/banner-quasarpunk.jpg" alt="QuasarPunk — Diseña. Construye. Comparte. Viedma, Río Negro, Argentina" width="100%">
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Dise%C3%B1a.%20Construye.%20Comparte.&amp;font=Fira+Code&amp;size=23&amp;color=5AD07A&amp;background=00000000&amp;center=true&amp;vCenter=true&amp;width=440&amp;height=48&amp;duration=3000&amp;pause=1800&amp;repeat=true" alt="Diseña. Construye. Comparte." width="440" height="48">
+</div>
+
 # QuasarPunk
 
 **Mauro Emanuel Carrasco**<br>
