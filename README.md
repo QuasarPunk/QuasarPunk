@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner-quasarpunk.png" alt="QuasarPunk — Diseña. Construye. Comparte. Viedma, Río Negro, Argentina" width="100%">
+  <img src="assets/banner-quasarpunk.jpg" alt="QuasarPunk — Diseña. Construye. Comparte. Viedma, Río Negro, Argentina" width="100%">
 </div>
 
 # QuasarPunk
@@ -9,17 +9,17 @@ Instructor de Robótica | IT Support | Sistemas Embebidos | Desarrollo Web
 
 > Diseña. Construye. Comparte.
 
-QuasarPunk es mi identidad como creador y experimentador tecnológico independiente. Reúne robótica, electrónica, Raspberry Pi, Linux, hardware experimental, automatización, Web Development, fabricación digital, educación tecnológica y cultura Maker / Open Source.
+Creador y experimentador tecnológico independiente. Interesado en robótica, electrónica, Raspberry Pi, Linux, hardware experimental, automatización, Web Development, fabricación digital, educación tecnológica y cultura Maker / Open Source.
 
 Viedma, Río Negro, Argentina.
 
 ## Sobre mí
 
-Soy Instructor de Robótica y docente de Diseño e Impresión 3D en Punto Digital — Municipalidad de Viedma. En robótica enseño programación y electrónica con Arduino, diseño actividades STEM y trabajo con sensores, actuadores y automatización básica. También acompaño a estudiantes de entre 8 y 15 años en la resolución de problemas de hardware y software.
+Soy instructor de Robótica y de Diseño e Impresión 3D en Punto Digital — Municipalidad de Viedma. En robótica enseño programación y electrónica con Arduino, diseño actividades STEM y trabajo con sensores, actuadores y automatización básica. También acompaño a estudiantes de entre 8 y 15 años en la resolución de problemas de hardware y software.
 
-Desde 2026 incorporé la enseñanza de diseño tridimensional y fabricación digital con Tinkercad, PrusaSlicer y una impresora Ender 3 Pro.
+En 2026 incorporé la enseñanza de diseño tridimensional y fabricación digital con Tinkercad, PrusaSlicer e impresión con Ender 3 Pro.
 
-Antes de dedicarme a la educación tecnológica trabajé siete años en producción audiovisual. Operar cámaras, configurar equipos y resolver incidencias en producciones en vivo y grabadas me dio una forma concreta de trabajar: preparar el sistema, probarlo en condiciones reales y mantener el flujo de trabajo claro para el equipo.
+Antes de dedicarme a la educación tecnológica trabajé siete años en producción audiovisual. Operar cámaras, configurar equipos y resolver incidencias durante producciones en vivo y grabadas me dio una forma concreta de trabajar: preparar el sistema, probarlo en condiciones reales y mantener el flujo de trabajo claro para el equipo.
 
 Estoy desarrollando mi carrera hacia IT Support, soporte técnico e infraestructura IT, sin dejar de lado la robótica, los sistemas embebidos y el desarrollo web. Aprendo construyendo, probando y documentando. **Documento lo que construyo y comparto lo que aprendo.**
 
